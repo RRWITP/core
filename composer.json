@@ -1,5 +1,5 @@
 {
-    "name": "plasma/core",
+    "name": "rrwitp/core",
     "description": "Core component of Plasma.",
     "type": "library",
     "license": "Apache-2.0",
@@ -11,8 +11,8 @@
     ],
     "require": {
         "php": ">=7.1",
-        "charlottedunois/set": "^0.1.1",
-        "charlottedunois/validator": "^0.3.0",
+        "valzargaming/set": "^0.1.1",
+        "valzargaming/validator": "^0.3.0",
         "evenement/evenement": "^3.0|^2.0",
         "react/promise": "^2.7",
         "react/promise-stream": "^1.1"
